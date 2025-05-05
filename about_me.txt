@@ -1,0 +1,1 @@
+echo "My name is Ahmed Khaled.\nI enjoy working out and programming.\nMy goal is to become a skilled software engineer." > about_me.txt
